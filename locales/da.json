@@ -1,0 +1,109 @@
+{
+    "Title": "Uheld",
+    "Seat": {
+        "Driver": "Fører",
+        "Front": "Forsæde",
+        "RearLeft": "Bagsæde (venstre)",
+        "RearRight": "Bagsæde (højre)",
+        "Other": "Sæde %s"
+    },
+    "Door": {
+        "Name0": "Førerdør",
+        "Name1": "Passagerdør",
+        "Name2": "Bagdør (venstre)",
+        "Name3": "Bagdør (højre)",
+        "Fine": "I orden",
+        "Stiff": "Sidder let fast",
+        "Jammed": "Sidder fast",
+        "Mangled": "Totalt forvredet",
+        "Torn": "Revet af",
+        "EntryJammed": "Døren sidder fast. Brug en anden dør eller smadr ruden."
+    },
+    "Seatbelt": {
+        "On": "Du tog selen på",
+        "Off": "Du tog selen af",
+        "Keybind": "Spænd sele",
+        "StillOn": "Du har stadig selen på. Tryk %s for at tage den af."
+    },
+    "Trapped": {
+        "Title": "Du er fanget",
+        "Notify": "Døren sidder fast, du er fanget i køretøjet!",
+        "Hint": "[%s] Nødsituation",
+        "Jammed": "Døren sidder fast. Tryk %s for at se dine muligheder.",
+        "Keybind": "Nødmenu når du er fanget"
+    },
+    "Menu": {
+        "Force": "Ram døren",
+        "ForceDescription": "Brug kræfterne på at presse døren op. Det gør ondt.",
+        "BreakWindow": "Smadr ruden",
+        "BreakWindowDescription": "Slå ruden ud og kravl ud den vej.",
+        "ClimbOut": "Kravl ud gennem ruden",
+        "ClimbOutDescription": "Kræver at ruden er smadret.",
+        "Help": "Råb om hjælp",
+        "HelpDescription": "Giv alarmcentralen din position."
+    },
+    "Progress": {
+        "ClimbOut": "Kravler ud gennem ruden...",
+        "Force": "Rammer døren...",
+        "BreakWindow": "Smadrer ruden...",
+        "Check": "Undersøger køretøjet...",
+        "Pull": "Trækker ud af køretøjet...",
+        "Sweep": "Fejer vragdele op..."
+    },
+    "Window": {
+        "Cannot": "Du kan ikke smadre den rude."
+    },
+    "Force": {
+        "Failed": "Du ramte forkert og slog dig.",
+        "Freed": "Døren giver efter!",
+        "Progress": "Døren giver lidt efter. Bliv ved."
+    },
+    "Help": {
+        "Called": "Alarmcentralen har fået din position.",
+        "Cooldown": "Du har lige råbt om hjælp. Vent lidt."
+    },
+    "Rescue": {
+        "Title": "Hjælp passagerer",
+        "Ready": "Kan trækkes ud",
+        "StillTrapped": "Fanget, smadr ruden først",
+        "Unresponsive": "Reagerer ikke",
+        "Cannot": "Du kan ikke trække personen ud.",
+        "Empty": "Der er ingen i køretøjet.",
+        "Pulled": "Du trak personen ud af køretøjet.",
+        "PulledOut": "Du blev trukket ud af køretøjet."
+    },
+    "Check": {
+        "Header": "Køretøjets tilstand",
+        "Clean": "Køretøjet ser ud til at være i orden.",
+        "FuelLeak": "Det lugter af benzin, tanken lækker",
+        "Radiator": "Der stiger damp op fra køleren",
+        "Steering": "Forhjulene står skævt",
+        "Occupied": "Nogen sidder stadig i køretøjet"
+    },
+    "Target": {
+        "Inspect": "Undersøg køretøjets skader",
+        "Smash": "Smadr ruden",
+        "Occupants": "Hjælp passagerer",
+        "Sweep": "Fej vragdele op"
+    },
+    "Sweep": {
+        "Paid": "Du fik %s kr. for oprydningen.",
+        "Done": "Du fejede %s vragdele op.",
+        "Nothing": "Der er ingen vragdele inden for rækkevidde."
+    },
+    "Debris": {
+        "Puncture": "Du kørte over vragdele og fik et punkteret dæk!"
+    },
+    "Dispatch": {
+        "Label": "Færdselsuheld",
+        "Crash": "Alvorligt færdselsuheld, personer kan være kvæstede.",
+        "Trapped": "Alvorligt færdselsuheld, personer er fastklemt i køretøjet.",
+        "Help": "En fastklemt person råber om hjælp efter et færdselsuheld."
+    },
+    "Command": {
+        "NoVehicle": "Intet køretøj i nærheden.",
+        "Simulated": "Simulerede et %s sammenstød (%s).",
+        "Cleared": "Ryddet op: %s vragdele fjernet.",
+        "NoState": "Køretøjet har ingen skadeshistorik."
+    }
+}

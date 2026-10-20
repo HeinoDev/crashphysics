@@ -1,0 +1,109 @@
+{
+    "Title": "Crash",
+    "Seat": {
+        "Driver": "Driver",
+        "Front": "Front passenger",
+        "RearLeft": "Rear seat (left)",
+        "RearRight": "Rear seat (right)",
+        "Other": "Seat %s"
+    },
+    "Door": {
+        "Name0": "Driver door",
+        "Name1": "Passenger door",
+        "Name2": "Rear door (left)",
+        "Name3": "Rear door (right)",
+        "Fine": "Fine",
+        "Stiff": "A little stiff",
+        "Jammed": "Jammed",
+        "Mangled": "Completely mangled",
+        "Torn": "Torn off",
+        "EntryJammed": "The door is jammed. Use another door or smash the window."
+    },
+    "Seatbelt": {
+        "On": "You buckled up",
+        "Off": "You unbuckled",
+        "Keybind": "Toggle seatbelt",
+        "StillOn": "Your seatbelt is still on. Press %s to take it off."
+    },
+    "Trapped": {
+        "Title": "You are trapped",
+        "Notify": "The door is jammed, you are trapped in the vehicle!",
+        "Hint": "[%s] Emergency",
+        "Jammed": "The door is jammed. Press %s to see your options.",
+        "Keybind": "Emergency menu while trapped"
+    },
+    "Menu": {
+        "Force": "Force the door",
+        "ForceDescription": "Put your weight into it and shove the door open. It hurts.",
+        "BreakWindow": "Smash the window",
+        "BreakWindowDescription": "Knock the window out and crawl out that way.",
+        "ClimbOut": "Climb out through the window",
+        "ClimbOutDescription": "Needs a smashed window.",
+        "Help": "Call for help",
+        "HelpDescription": "Give the emergency services your position."
+    },
+    "Progress": {
+        "ClimbOut": "Climbing out through the window...",
+        "Force": "Forcing the door...",
+        "BreakWindow": "Smashing the window...",
+        "Check": "Inspecting the vehicle...",
+        "Pull": "Pulling them out...",
+        "Sweep": "Sweeping up debris..."
+    },
+    "Window": {
+        "Cannot": "You can't smash that window."
+    },
+    "Force": {
+        "Failed": "You missed your shove and hurt yourself.",
+        "Freed": "The door gives way!",
+        "Progress": "The door gives a little. Keep going."
+    },
+    "Help": {
+        "Called": "The emergency services have your position.",
+        "Cooldown": "You just called for help. Wait a moment."
+    },
+    "Rescue": {
+        "Title": "Help occupants",
+        "Ready": "Can be pulled out",
+        "StillTrapped": "Trapped, smash the window first",
+        "Unresponsive": "Unresponsive",
+        "Cannot": "You can't pull that person out.",
+        "Empty": "There is nobody in the vehicle.",
+        "Pulled": "You pulled the person out of the vehicle.",
+        "PulledOut": "You were pulled out of the vehicle."
+    },
+    "Check": {
+        "Header": "Vehicle condition",
+        "Clean": "The vehicle looks fine.",
+        "FuelLeak": "You smell fuel, the tank is leaking",
+        "Radiator": "Steam is rising from the radiator",
+        "Steering": "The front wheels are out of line",
+        "Occupied": "Someone is still inside the vehicle"
+    },
+    "Target": {
+        "Inspect": "Inspect vehicle damage",
+        "Smash": "Smash the window",
+        "Occupants": "Help occupants",
+        "Sweep": "Sweep up debris"
+    },
+    "Sweep": {
+        "Paid": "You were paid $%s for cleaning up.",
+        "Done": "You swept up %s pieces of debris.",
+        "Nothing": "There is no debris within reach."
+    },
+    "Debris": {
+        "Puncture": "You drove over debris and got a flat tire!"
+    },
+    "Dispatch": {
+        "Label": "Traffic accident",
+        "Crash": "Serious traffic accident, people may be injured.",
+        "Trapped": "Serious traffic accident, people are trapped in the vehicle.",
+        "Help": "A trapped person is calling for help after a traffic accident."
+    },
+    "Command": {
+        "NoVehicle": "No vehicle nearby.",
+        "Simulated": "Simulated a %s crash (%s).",
+        "Cleared": "Cleaned up: %s pieces of debris removed.",
+        "NoState": "This vehicle has no crash history."
+    }
+}
